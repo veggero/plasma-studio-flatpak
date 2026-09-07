@@ -1,0 +1,9 @@
+[Flatpak Repo]
+Title=Plasma Studio (testing)
+Url=https://nicco.love/plasma-studio-flatpak/repo/
+Homepage=https://invent.kde.org/niccolove/plasma-studio
+Comment=Testing builds of Plasma Studio
+Description=Testing builds of Plasma Studio, a node-based video and vector editor.
+Icon=https://invent.kde.org/niccolove/plasma-studio/-/raw/master/app/plasmastudio.png
+GPGKey=mDMEap6TXBYJKwYBBAHaRw8BAQdAgmLOAy9/wgw42+4mMI7jdmW9AJrKtG5J9Jnf3B95oVW0M1BsYXNtYSBTdHVkaW8gRmxhdHBhayA8bmljY29sby52ZW5lcmFuZGlAZ21haWwuY29tPoiQBBMWCgA4FiEEMKFQA18vxepNqG4cn/coz+aLjQ8FAmqek1wCGwMFCwkIBwIGFQoJCAsCBBYCAwECHgECF4AACgkQn/coz+aLjQ/k+QEA2OtSy6lqg3dMH3KH3RTHUWAvR9Xo5UgTrRyG7/lpsvMA/3gPIywIQtGvzl+tNqcsgQW9+NAG1MptMe2uVvctVQUBuDgEap6TXBIKKwYBBAGXVQEFAQEHQIxYwCrWSXS5tlVzOVNXqs54jS9ataFqMFn9ePuAQRpcAwEIB4h4BBgWCgAgFiEEMKFQA18vxepNqG4cn/coz+aLjQ8FAmqek1wCGwwACgkQn/coz+aLjQ+d/AEAy38m8rm1uk82aVLvH6xbtPOyfEPU4aYmOjl2BfaCKuQA/jNNHcjPhiwge1PCvLZFxt5uJi1ZmhbguhLaM60wHZIB
+RuntimeRepo=https://flathub.org/repo/flathub.flatpakrepo
